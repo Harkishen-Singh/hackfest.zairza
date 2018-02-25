@@ -429,6 +429,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-header nav ul li a:hover {
   text-decoration: none;
   color: black;
+    background-color: white;/*this one aadded */
 }
 #fh5co-header nav ul li a.active, #fh5co-header nav ul li a:focus {
   outline: none;
